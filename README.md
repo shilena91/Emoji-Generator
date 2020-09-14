@@ -7,6 +7,8 @@ Demo [here](https://emoji-generator-hoang.herokuapp.com/)
 Clone repo:
 > git clone ht<span>tps://github.com/shilena91/Emoji-Generator.git
 
+Adding your own firebase config in file ```scripts/Network/firebase.js```, otherwise the app won't work.
+
 Install node dependencies:
 > npm install
 
