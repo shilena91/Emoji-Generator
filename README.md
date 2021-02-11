@@ -12,5 +12,5 @@ Adding your own firebase config in file ```scripts/Network/firebase.js```, other
 Install node dependencies:
 > npm install
 
-Run webpack:
-> webpack-dev-server --mode development --open
+Run:
+> npm start
